@@ -2,12 +2,12 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example</groupId>
-    <artifactId>spring-hibernate-template</artifactId>
+    <artifactId>Penhchet-Shopping</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
-        <org.springframework.version>3.1.1.RELEASE</org.springframework.version>
+        <org.springframework.version>4.1.4.RELEASE</org.springframework.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 

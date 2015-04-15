@@ -6,5 +6,4 @@
 
     <persistence-unit name="dataSource" transaction-type="RESOURCE_LOCAL">
     </persistence-unit>
-
 </persistence>

@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Spring MVC and Hibernate Template</title>
+    <title>Penhchet Shopping</title>
 
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,17 +26,17 @@
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
-            <a href="/" class="brand">Spring MVC and Hibernate Template</a>
-            <a href="/" class="brand" id="heroku">by <strong>heroku</strong></a>
+            <a href="/" class="brand"><i><strong>Penhchet Shopping</strong></i></a>
+            <a href="/" class="brand" id="heroku">by <strong><i>DARA PENHCHET</i></strong></a>
         </div>
     </div>
 </div>
 
-<div class="container">
+<div class="container" style="margin-top:30px;">
     <div class="row">
         <div class="span8 offset2">
             <div class="page-header">
-                <h1>Simple CRUD Page</h1>
+                <h1><i><strong>Simple CRUD Page</strong></i></h1>
             </div>
             <form:form method="post" action="add" commandName="person" class="form-vertical">
 
@@ -44,6 +44,7 @@
                 <form:input path="firstName" />
                 <form:label path="lastName">Last Name</form:label>
                 <form:input path="lastName" />
+                <br />
                 <input type="submit" value="Add Person" class="btn"/>
             </form:form>
 
