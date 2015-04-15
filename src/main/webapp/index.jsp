@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!--[if lt IE 9]> 
@@ -44,7 +45,7 @@
     
     <!-- **Font Awesome** -->
     <link href="resources/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-
+  
 	<link rel="stylesheet" href="resources/js/layerslider/css/layerslider.css" type="text/css">
     
     <!--[if IE 7]>
